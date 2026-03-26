@@ -23,7 +23,7 @@ This repository serves as a comprehensive portfolio for the Digital Literacy (CS
 
 ## 🔗 Key Links
 * **LinkedIn Profile:**(https://www.linkedin.com/in/aman-n-6073743ba/)
-* **GitHub Profile:** [Paste your GitHub profile URL here]
+* **GitHub Profile:** (https://github.com/aman25bai11403-code)
 * **Digital Literacy Awareness Quiz:** (https://forms.gle/s8gmo7gcW7eBNc1Q8)
 
 ---
@@ -49,4 +49,4 @@ This repository serves as a comprehensive portfolio for the Digital Literacy (CS
 
 ## 🎓 Academic Statement
 As a Student Digital Ambassador, this project represents my commitment to maintaining a professional digital footprint, practicing safe online habits, and fostering a secure digital environment for my peers at VIT Bhopal.
-- **Digital Literacy Awareness Quiz:** (https://forms.gle/s8gmo7gcW7eBNc1Q8)
+
